@@ -22,7 +22,7 @@ Hello there! 👋 I'm Ramy Abidi, a passionate Computer Science graduate student
 
 I like web development and creating user-friendly applications. My skillset includes:
 
-- **Front-end:** HTML5, CSS3, JavaScript, React <img src="https://www.svgrepo.com/show/384374/bookmark-favorite-rating-star.svg" alt="Star Rating" width="10" height="10" /> <img src="https://www.svgrepo.com/show/384374/bookmark-favorite-rating-star.svg" alt="Star Rating" width="10" height="10" /> <img src="https://www.svgrepo.com/show/384374/bookmark-favorite-rating-star.svg" alt="Star Rating" width="10" height="10" /> <img src="https://www.svgrepo.com/show/384374/bookmark-favorite-rating-star.svg" alt="Star Rating" width="10" height="10" />
+- **Front-end:** HTML, CSS, JavaScript, React <img src="https://www.svgrepo.com/show/384374/bookmark-favorite-rating-star.svg" alt="Star Rating" width="10" height="10" /> <img src="https://www.svgrepo.com/show/384374/bookmark-favorite-rating-star.svg" alt="Star Rating" width="10" height="10" /> <img src="https://www.svgrepo.com/show/384374/bookmark-favorite-rating-star.svg" alt="Star Rating" width="10" height="10" />
 - **Back-end:** Python, Django, Flask <img src="https://www.svgrepo.com/show/384374/bookmark-favorite-rating-star.svg" alt="Star Rating" width="10" height="10" /> <img src="https://www.svgrepo.com/show/384374/bookmark-favorite-rating-star.svg" alt="Star Rating" width="10" height="10" /> <img src="https://www.svgrepo.com/show/384374/bookmark-favorite-rating-star.svg" alt="Star Rating" width="10" height="10" />
 
 <div align="center">
